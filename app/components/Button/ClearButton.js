@@ -18,4 +18,5 @@ ClearButton.propTypes = {
   onPress: PropTypes.func,
 };
 
-export default ClearButton;
+export default ClearButton
+
